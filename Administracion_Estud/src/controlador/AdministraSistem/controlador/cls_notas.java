@@ -1,4 +1,4 @@
-Package controlador;
+package controlador;
 public class cls_notas {
 
     private int Idint;

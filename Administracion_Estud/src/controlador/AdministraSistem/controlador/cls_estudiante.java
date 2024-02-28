@@ -1,4 +1,4 @@
-Package controlador;
+package controlador;
 public class cls_estudiante {
 
     private int id_Int;
